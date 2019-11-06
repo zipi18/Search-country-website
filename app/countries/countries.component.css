@@ -1,0 +1,29 @@
+
+body {
+  background-color: #bfbfbf;
+  color: white;
+  font-family: 'Century Gothic','Arial';
+  background-image: url(https://image.freepik.com/free-vector/sky-texture-background_1017-2372.jpg);
+}
+
+span {
+  color: #a6a6a6;
+}
+
+td {
+  font-size: 15px;
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
+tr {
+  font-size: 20px;
+  border-collapse: collapse;
+}
+
+table {
+  color: gray;
+  width: 100%;
+  border: 1px solid white;
+  border-collapse: collapse;
+}
